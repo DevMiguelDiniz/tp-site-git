@@ -11,6 +11,8 @@ body, ul, li, p{
 .Nome{
     display: flex;
     font-size: 130%;
+    color: white;
+    font-weight: bolder;
 }
 .cabecalho a{
     text-decoration: none;
@@ -30,8 +32,14 @@ body, ul, li, p{
 .menu li{
     list-style: none;
     margin-left: 10px;
+    font-size: 120%;
+    font-weight: bolder;
 }
 @media screen and (min-width:601px) {
+    .Nome{
+        background-color: rgb(146, 146, 146);
+        padding: 20px;
+    }
     #menuToggle{
         width: 0%;
         display: none;
@@ -99,12 +107,12 @@ body, ul, li, p{
     }
     .menu-icon{
         display:block;
-        color:white;
+        color:rgb(0, 0, 0);
         width: 50px;
         height: inherit;
         position: absolute;
-        top:15px;
-        right:30px;
+        top:37px;
+        right:5px;
         line-height: 60px;
         z-index:999;
     }
