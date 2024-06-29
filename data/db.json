@@ -1,0 +1,71 @@
+{
+    "socialLinks": 
+      {
+        "linkedin": "https://www.linkedin.com/in/miguel-diniz-012149317/",
+        "twitter": "https://twitter.com/MigsFig",
+        "instagram": "https://instagram.com/miguerit0/"
+      },
+
+      "slide":[
+        {
+          "id": 1,
+          "title": "Guia da mozilla sobre JavaScript",
+          "description": "Uma coleção de guias, tutoriais e documentação de JavaScript criado pela Mozilla (Desenvolvedora do Firefox)",
+          "coverImageUrl": "../assets/img/JS-img.png",
+          "contentUrl": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+        },
+        {
+          "id": 2,
+          "title": "Guia da W3School sobre HTML",
+          "description": "Um site com uma documentação completa e tutoriais de HTML 5",
+          "coverImageUrl": "../assets/img/HTML-img.png",
+          "contentUrl": "https://www.w3schools.com/html/default.asp"
+        },
+        {
+          "id": 3,
+          "title": "Guia da W3School sobre CSS",
+          "description": "Um site com uma documentação completa e tutoriais de CSS",
+          "coverImageUrl": "../assets/img/CSS-img.png",
+          "contentUrl": "https://www.w3schools.com/css/default.asp"
+        },
+        {
+          "id": 4,
+          "title": "Bootstrap",
+          "description": "Uma framework usada para criação e formatação de sites responsivos",
+          "coverImageUrl": "../assets/img/BT-img.png",
+          "contentUrl": "https://getbootstrap.com"
+        },
+        {
+          "id": 5,
+          "title": "Página 'get started' do Github",
+          "description": "Página do GitHub voltada a ensinar o básico do uso do site",
+          "coverImageUrl": "../assets/img/default-repo-img.png",
+          "contentUrl": "https://docs.github.com/en/get-started"
+        }
+      ],
+      
+      "pessoas":[
+        {
+          "id": 1,
+          "photoUrl": "../assets/img/p1.jpg",
+          "name": "Bernardo Resende",
+          "githubProfileUrl": "https://github.com/bernardordm"
+        },
+        {
+          "id": 2,
+          "photoUrl": "../assets/img/p2.jpg",
+          "name": "João Marcelo Araújo",
+          "githubProfileUrl": "https://github.com/joaomarcelocpa"
+        },
+        {
+          "id": 3,
+          "photoUrl": "../assets/img/p3.jpg",
+          "name": "Lucas Dolabela",
+          "githubProfileUrl": "https://github.com/Dolabelaa"
+        }
+      ]
+      
+
+    
+  }
+  

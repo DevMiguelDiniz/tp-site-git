@@ -1,5 +1,14 @@
 {
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "Projeto para usar JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "start:json-server": "json-server --watch data/db.json --port 3000"
+  },
   "dependencies": {
+    "g": "^2.0.1",
     "json-server": "^1.0.0-beta.1"
-  }
+  },
+  "devDependencies": {}
 }
